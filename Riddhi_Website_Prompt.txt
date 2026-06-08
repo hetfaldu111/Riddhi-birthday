@@ -1,0 +1,171 @@
+Create a premium, emotional, fully responsive birthday website for my best friend Riddhi.
+
+Tone:
+- Sweet, personal, best-friend energy.
+- Cute and emotional, but not too hard to read.
+- Use simple Hinglish where it feels natural.
+- Avoid hard cursive fonts. Use readable cute fonts like Nunito, Quicksand, Poppins, or similar.
+
+Visual Style:
+- Dreamy night-sky birthday theme.
+- Purple, pink, lavender, blush, and soft gold palette.
+- Glassmorphism cards, aurora background, stars, sparkles, floating hearts, and confetti.
+- Smooth mobile-first layout.
+- Apple-like smoothness, but keep performance good on phones.
+
+Opening Scene:
+- Website opens with a dark starry sky.
+- Show a beautiful birthday cake with one candle.
+- Text: "Someone special has a birthday today..."
+- Text: "Tap the candle to blow it."
+- When Riddhi taps the candle:
+  - Candle flame goes out.
+  - Smoke appears.
+  - Confetti and fireworks start.
+  - A cute photo appears where we are feeding cake to each other.
+  - Use a dummy placeholder photo for now.
+  - After a few seconds, transition to the main website.
+
+Main Hero:
+- Big readable heading: "Happy Birthday Riddhi"
+- Subtitle: "This website was made specially for you."
+- Floating hearts and soft sparkles.
+
+Funny Ready Gate:
+- Show a popup/card:
+  "Are you ready for your birthday surprise?"
+- Buttons:
+  "Yes, obviously"
+  "No"
+- If she taps No:
+  - Button moves away randomly.
+  - Show funny sad/emotional messages.
+  - After 3 tries, auto-select Yes and show:
+    "I knew you could not resist."
+
+Our Story Timeline:
+Make a vertical animated timeline with these moments:
+1. We were classmates.
+2. We talked only sometimes, mostly about studies.
+3. I sent a LinkedIn request.
+4. She commented on my LeetCode post: "Well done. Keep going."
+5. PPS notebook conversation.
+6. Career talks started.
+7. I found out her birthday through a friend's story and wished her.
+8. She started Instagram.
+9. I was scared to send a follow request, but Dev convinced me.
+10. She accepted the request after one day.
+11. I sent a late-reply funny reel.
+12. We started talking beyond studies.
+13. Daily conversations started.
+14. Dinner outings and parties.
+15. Trips together.
+16. She is very sleepy and lazy sometimes.
+17. Add a cute inside joke that she is so lazy she cannot even take water from the water cooler herself and asks her roommate to bring it.
+18. Weekly fights, naraz moments, and always coming back together.
+
+3D Photo Gallery:
+- Add a premium 3D coverflow carousel.
+- Center photo should be large.
+- Side photos should rotate in 3D.
+- Auto-rotate every 4 seconds.
+- Add arrow controls, dots, keyboard controls, swipe/drag support, and lightbox preview.
+- Add captions under/over each photo.
+- Use dummy photos/placeholders for now.
+- Make image replacement easy by changing image paths in one array.
+
+Memory Wall:
+- Floating polaroid-style photos.
+- Each card slightly rotated.
+- On click, the card flips.
+- Back side contains a small memory or funny line.
+- Add one funny card called "Sleepy lazy queen" with the joke:
+  "Water cooler is nearby, but roommate delivery service is still required."
+
+Fun Zone:
+- Add a quiz:
+  "Who gets naraz first?"
+  Options: "Me, maybe" and "You, obviously"
+  Show funny responses for both.
+- Add a spinning wheel of memories:
+  Dinner, Biggest fight, Birthday wish, Trip, PPS, Instagram, Late reply reel, Always together.
+
+Counters:
+- Add animated counters:
+  Days known
+  Messages and talks
+  Fights survived
+  Bestest Riddhi
+
+Birthday Letter:
+- Add a readable paper-style birthday letter.
+- Use typing animation.
+- Message should include:
+  From classmates to bestest best friends, our bond became unexpected and special.
+  We fight, we get naraz, but we always come back together.
+  She is sweet, caring, emotional, jealous sometimes, rude sometimes, and still my favourite best friend.
+  She is also so sleepy and lazy that even water from the water cooler needs roommate delivery, and that also feels very her.
+
+Extra Magical Sections:
+- Interactive Constellation:
+  Stars appear and she can drag them.
+  After enough dragging, they connect and create a heart.
+  Then show:
+  "Happy Birthday Riddhi"
+  Then transform into the best photo placeholder.
+- Garden of Memories:
+  A seed drops into the ground.
+  Water falls.
+  A tree grows.
+  Leaves appear with memories:
+  LinkedIn, PPS Notebook, Instagram, Dinner, Trips, Late reply reel, 100 fights, 100 makeups.
+  Finally one flower blooms with:
+  "Thank you for growing with me."
+- Journey Through Space:
+  The website flies through space.
+  Planets and stars pass by.
+  Earth appears.
+  A glowing heart appears.
+  Text:
+  "Out of 8 billion people... I'm grateful our paths crossed."
+- Infinity Loop:
+  Website fades to black.
+  Lines appear one by one:
+  "We fought."
+  "We laughed."
+  "We got angry."
+  "We cared."
+  "We stayed."
+  "And I hope we always will."
+  A glowing infinity symbol forms.
+  It transforms into a heart.
+  Final line:
+  "No matter where life takes us... You'll always be one of my favourite people. Happy Birthday Riddhi ❤️ — Het"
+
+Final Section:
+- Big glowing text:
+  "Happy Birthday Riddhi"
+- Show fireworks, confetti, balloons/hearts/stars.
+- Final message:
+  "No matter how many times we fight, we always end up together. Thank you for being the sweetest, rudest, caring, emotional, funny, and most special person in my life."
+- Add "One Last Surprise" button.
+- On click, show a cleaner final surprise:
+  Screen fades to black.
+  Soft piano music starts.
+  Show "Het ❤️ Riddhi".
+  Show:
+  "Some people enter our lives by chance, but stay forever by choice."
+  A glowing infinity symbol appears.
+  Thousands of petals fall.
+  Ending line:
+  "Some stories don't need a happy ending because they never really end. Ours is still being written... ❤️"
+
+Technical Requirements:
+- HTML5, CSS3, JavaScript.
+- Single-page website.
+- Responsive for mobile and desktop.
+- Smooth scrolling and scroll reveal animations.
+- Optimized animations.
+- Easy to replace dummy images.
+- Clean code structure.
+- Do not use hard-to-read cursive fonts for paragraphs or main content.
